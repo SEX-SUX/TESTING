@@ -10,7 +10,7 @@ import string
 from Demon import check 
 
 # Telegram bot token
-TOKEN = "7542551291:AAG3y-B_Mn4VJ5ra7cd4CcEEvD3ROOPpOes"
+TOKEN = "7328966851:AAGOTLBDdrxfkPs7ktCZg0Kx3lCm9Af6otQ"
 admins = [6656608288,6843778127,6304864760,6490103645,7394590844]  # Admins Telegram ID
 
 # Initialize the bot
